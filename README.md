@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohit singh</h1>
+<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+
+
 
 <!--
 **rohitrkx/rohitrkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
