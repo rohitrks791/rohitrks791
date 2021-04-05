@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit singh</h1>
+<h1 align="center">Hi 👋, I'm Rohit Kumar Singh</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
 
