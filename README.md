@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Rohit Kumar Singh</h1>
-<h3>A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
 
 
