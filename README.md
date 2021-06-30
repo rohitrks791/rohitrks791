@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Rohit Kumar Singh</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on **Development**
 
 - 🌱 I’m currently learning **Web Technologies**
 
