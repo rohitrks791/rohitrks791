@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- ⚡ Fun fact **I love to play cricket and Chai over coffee.**
+- ⚡ Fun fact **I love to code and Chai over coffee.**
 
 ### Connect with me:
 <a href="https://twitter.com/w0lfrm" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abuanwar072" height="22" width="22" /></a>
