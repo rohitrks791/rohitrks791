@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Technologies**
 
-- 👯 I’m looking to collaborate with **on any live project**
+- 👯 I’m looking to collaborate **on any live project**
 
 - ⚡ Fun fact **I love to Code and Chai over coffee.**
 
